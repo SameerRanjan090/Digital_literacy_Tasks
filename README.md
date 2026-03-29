@@ -1,10 +1,10 @@
 # Digital Literacy Project
 
-##Student Details
+## Student Details
 Name: Sameer Ranjan
-Registration Number: 25BAI10702
-Branch: CSE (AI & ML)
-Year: 1st Year
+ | Registration Number: 25BAI10702
+ | Branch: CSE (AI & ML)
+ | Year: 1st Year
 
 ## Project Overview
 This project was completed as part of the Digital Literacy course at VIT Bhopal. It focuses on developing essential digital skills such as creating a professional online presence, understanding online communication etiquette, exploring collaborative platforms, and promoting cyber safety awareness.
