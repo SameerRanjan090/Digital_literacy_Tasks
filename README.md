@@ -1,11 +1,13 @@
-Digital Literacy Project
+# Digital Literacy Project
+
 Student Details
 
-Name: Sameer Ranjan
-Reg No: 25BAI10702
-Branch: CSE (AI & ML)
-Year: 1st Year
-Project Overview
+## Name: Sameer Ranjan
+## Reg No: 25BAI10702
+## Branch: CSE (AI & ML)
+## Year: 1st Year
+
+## Project Overview
 
 This project was completed as part of the Digital Literacy course. It covers different aspects of digital awareness, use of online platforms, professional communication, and cyber safety. Through this project, I learned how to use digital tools in a more effective and responsible way.
 
